@@ -26,7 +26,7 @@ Analista de Sistemas com mais de 20 anos na área com experiência em desenvolvi
 ### Banco de Dados
 [![SqlServer](https://img.shields.io/badge/Sql_Server-E34F26?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://github.com/britors)
 [![Oracle](https://img.shields.io/badge/Oracle-E34F26?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/britors)
-[![Postgresql](https://img.shields.io/badge/Postgresql-239120?style=for-the-badge&logo=Postgresql&logoColor=white)](https://github.com/britors)
+[![Postgresql](https://img.shields.io/badge/Postgresql-239120?style=for-the-badge&logo=Postgresql&logoColor=orange)](https://github.com/britors)
 
 
 ### Ferramentas
@@ -36,3 +36,4 @@ Analista de Sistemas com mais de 20 anos na área com experiência em desenvolvi
 ## Follow me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brito-rodrigo-soares/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/britors)
+[![Sonar](https://img.shields.io/badge/SonarCloud-100000?style=for-the-badge&logo=sonarqube&logoColor=white)]((https://sonarcloud.io/organizations/britors/projects))
