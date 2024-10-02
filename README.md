@@ -36,4 +36,4 @@ Analista de Sistemas com mais de 20 anos na área com experiência em desenvolvi
 ## Follow me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brito-rodrigo-soares/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/britors)
-[![Sonar](https://img.shields.io/badge/SonarCloud-100000?style=for-the-badge&logo=sonarqube&logoColor=white)]((https://sonarcloud.io/organizations/britors/projects))
+[![Sonar](https://img.shields.io/badge/SonarCloud-100000?style=for-the-badge&logo=sonarqube&logoColor=white)](https://sonarcloud.io/organizations/britors/projects)
