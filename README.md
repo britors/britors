@@ -1,8 +1,8 @@
 # Olá! Me chamo Rodrigo Brito
 
-## Desenvolvedor FullStack.
+## Engenheiro de Software.
 
-Analista de Sistemas com mais de 20 anos na área com experiência em desenvolvimento e manutenção de aplicativos usando .NET, .NET Core, Kafka, Microservices, Kubernetes, Docker, Azure, AWS, Redis, MongoDB, SQLServer e outros
+Engenheiro de Software com mais de 20 anos na área com experiência em desenvolvimento e manutenção de aplicativos usando .NET, .NET Core, Kafka, Microservices, Kubernetes, Docker, Azure, AWS, Redis, MongoDB, SQLServer e outros
 
 ### Frameworks
 [![.NET](https://img.shields.io/badge/net-0078D6?style=for-the-badge&logo=dotnet&logoColor=61DAFB)](https://github.com/britors)
