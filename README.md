@@ -1,5 +1,7 @@
 <div align="center">
 
+![Banner Rodrigo Brito - Analista de Sistemas](https://github.com/britors/britors/blob/main/assets/banner.png)
+
 # 👋 Olá! Eu sou Rodrigo Brito
 
 ### 🎯 Arquiteto de Soluções | Especialista em Cloud & Microsserviços
