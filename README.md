@@ -215,6 +215,41 @@ Arquiteto de Soluções com **mais de 20 anos** de experiência construindo sist
 
 ---
 
+## 🤖 Estudo & Exploração: Claude Code
+
+Atualmente explorando em profundidade o **Claude Code** como ferramenta de desenvolvimento assistido por IA, investigando como ela transforma o fluxo de trabalho de arquitetos e engenheiros de software.
+
+### O que estou estudando
+
+```yaml
+Claude Code:
+  CLI & Integração:
+    - Uso do Claude Code via terminal e IDEs (VS Code, JetBrains)
+    - Integração com fluxos Git e code review
+    - Slash commands e personalização via CLAUDE.md
+
+  Agentes & Automação:
+    - Agent SDK para construção de agentes customizados
+    - Subagentes especializados (Explore, Plan, Review)
+    - Hooks e comportamentos automatizados
+
+  Claude API (Anthropic SDK):
+    - Prompt caching e otimização de custo
+    - Tool use e function calling
+    - Thinking / extended reasoning com Claude Opus
+    - Batch processing e Files API
+
+  Casos de Uso Arquiteturais:
+    - AI-assisted architecture design
+    - Geração e revisão de ADRs
+    - Code review automatizado com contexto de domínio
+    - Análise de segurança e qualidade de código
+```
+
+[![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+---
+
 ## 📊 Contribuições Open Source
 
 ![GitHub followers](https://img.shields.io/github/followers/britors?style=social)
